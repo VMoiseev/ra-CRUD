@@ -1,3 +1,6 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/2vqeuwm8vk24yjq2?svg=true)](https://ci.appveyor.com/project/VMoiseev/ra-crud)
+## [Проект](https://vmoiseev.github.io/ra-CRUD/)
+
 CRUD
 ===
 
